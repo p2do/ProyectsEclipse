@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Figuras","l":"Circulo"},{"p":"Figuras","l":"Cuadrado"},{"p":"Figuras","l":"Rectangulo"}];updateSearchResults();
