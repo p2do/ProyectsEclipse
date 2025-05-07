@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Fernandez_Suarez_Antonio/PracticaMaximosYMinimos/src"/>
+	<classpathentry kind="src" path="PracticaMaximosYMinimos/src"/>
+	<classpathentry kind="src" path="PracticaVolumenesYSuperficies/Fernández_Suárez_Antonio/PracticaVolumenesYSuperficies/src"/>
+	<classpathentry kind="src" path="PracticaVolumenesYSuperficies/src"/>
+	<classpathentry kind="output" path="Fernandez_Suarez_Antonio/PracticaMaximosYMinimos/bin"/>
+</classpath>

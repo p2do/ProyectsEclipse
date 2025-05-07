@@ -11,7 +11,11 @@ public class Cuadrado {
 	 * @param lado
 	 */
 	public Cuadrado(double lado) {
-		this.lado = lado;
+		if (lado<=0) {
+			throw new IllegalArgumentException("El lado debe de ser superior a 0");
+		}else {
+			this.lado = lado;
+		}
 	}
 	
 	/**
